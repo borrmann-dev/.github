@@ -5,8 +5,8 @@ We build, explore, and share projects around **fullstack development**, **cloud 
 
 ## 📫 Contact
 - 🌍 Website: [borrmann.dev](https://borrmann.dev)  
-- 💼 LinkedIn: [Your LinkedIn](#)  
-- ✉️ E-Mail: [your.email@domain.com](mailto:your.email@domain.com)  
+- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/dennis-borrmann-4422b9184/)  
+- ✉️ E-Mail: [dennis@borrmann.dev](mailto:dennis@borrmann.dev)  
 
 
 ✨ _"borrmann.dev – Build things that matter."_  
